@@ -5,17 +5,17 @@
 ```text
 Provide text here
 ```
-1. DUE past - https://courses.cloudwithraj.com/p/rocking-aws-for-beginners-hands-on. How It Started - Data Center, Cloud Computing Introduction, Migrating Your Organization to AWS, AWS Compute and Scaling, AWS Networking, AWS Storage and Databases, AWS Observability and Security
+2. DUE past - https://courses.cloudwithraj.com/p/rocking-aws-for-beginners-hands-on. How It Started - Data Center, Cloud Computing Introduction, Migrating Your Organization to AWS, AWS Compute and Scaling, AWS Networking, AWS Storage and Databases, AWS Observability and Security
 
 ```text
 Provide text here
 ```
-1. DUE 24-Feb Saturday - Study System Design Fundamental Chapter from https://courses.cloudwithraj.com/p/rocking-system-design
+3. DUE 24-Feb Saturday - Study System Design Fundamental Chapter from https://courses.cloudwithraj.com/p/rocking-system-design
 
 ```text
 Provide text here
 ```
-1. DUE 24-Feb Saturday - How will you cost optimize an application on EKS/EC2/Lambda (no longer than 5 mins)
+4. DUE 24-Feb Saturday - How will you cost optimize an application on EKS/EC2/Lambda (no longer than 5 mins)
 
 ```text
 Provide text here
