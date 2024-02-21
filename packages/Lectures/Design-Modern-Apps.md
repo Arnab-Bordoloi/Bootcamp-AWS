@@ -6,13 +6,13 @@
 - 1st system design component you must absolutely know is `Microservices`
     - Load Balancer V API Gateway. If you are using LB, interviewer will prob you about APIG and vice-versa
     - Sync V Async patterns
-- Database selection
+- 2nd is Database selection
     - SQL V NoSQL
-- Caching
+- 3rd is Caching
     - Database & CDN
-- Security (this will separate you from other candidates)
+- 4th is Security (this will separate you from other candidates)
     - AuthN/Z, Encryption at rest & transit
-- Scalable & Available
+- 5th is Scalable & Available
 
 ## Design YouTube/Netflix/Prome video
 ### Upload
