@@ -16,7 +16,7 @@
 
 ## Design YouTube/Netflix/Prome video
 ### Upload
-- Requirements: Upload, Search, View, Filter adult content, Sacalable, Resilient, Secure, Cost at effective
+- Requirements: Upload, Search, View, Filter adult content, Scalable, Resilient, Secure, Cost at effective
 - Requirements: videos are 4K resolution, format is .mp4, goes to a storage with Title, Description, Tags
 - When we say storage, first thing that comes to mind is harddisc or elastic blog storage in AWS. Which is not good for the solution because you cannot easily attach a harddisc and if you want then you will have to attach another harddisc and if a file got split between harddisc, you will have to manage that splitting and partitioning stuff.
 - You have to implement resiliency. If the attached harddic fails, restore from back up and not data is lost
