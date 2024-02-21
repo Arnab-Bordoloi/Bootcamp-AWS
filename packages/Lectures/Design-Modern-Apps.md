@@ -1,6 +1,6 @@
 # We are designing modern app in AWS
 
-## MUSY know
+## MUST know
 - design is devided into 4 core components.
 - mastering the 5 MUST-knows will help answer the Qs which you are not prepared for.
 - 1st system design component you must absolutely know is `Microservices`
